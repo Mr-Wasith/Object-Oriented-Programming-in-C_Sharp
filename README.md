@@ -40,8 +40,3 @@ To get started with this project, follow the steps below:
   
 - **IDE**: It is recommended to use an IDE like [Visual Studio](https://visualstudio.microsoft.com/), [Visual Studio Code](https://code.visualstudio.com/), or any C#-compatible editor of your choice.
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
